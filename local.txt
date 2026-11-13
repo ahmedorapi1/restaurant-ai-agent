@@ -1,0 +1,1 @@
+powershell.exe -NoProfile -ExecutionPolicy RemoteSigned -File ".\start-local.ps1"
